@@ -1,0 +1,27 @@
+244 John.txt
+172 Matthew.txt
+99 Luke.txt
+94 Mark.txt
+69 Acts.txt
+38 Romans.txt
+27 1Cor.txt
+22 Philip.txt
+21 Eph.txt
+18 2Cor.txt
+17 Gal.txt
+17 1Thes.txt
+14 Rev.txt
+14 Hebrews.txt
+14 2Tim.txt
+14 1Tim.txt
+12 2Thes.txt
+12 1John.txt
+11 1Peter.txt
+9 2Peter.txt
+8 Col.txt
+7 Philemon.txt
+5 Jude.txt
+4 Titus.txt
+2 James.txt
+2 2John.txt
+

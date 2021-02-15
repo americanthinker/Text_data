@@ -1,0 +1,8 @@
+48 Lev.txt
+16 Num.txt
+10 Exodus.txt
+1 Romans.txt
+1 Nehemiah.txt
+1 2Sam.txt
+1 2Chron.txt
+1 1Chron.txt
